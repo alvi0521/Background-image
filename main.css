@@ -1,0 +1,23 @@
+.bg-img{
+    background-image: url("https://static.vecteezy.com/system/resources/previews/006/240/302/non_2x/abstract-soft-focus-sunset-field-landscape-of-yellow-flowers-and-grass-meadow-warm-golden-hour-sunset-sunrise-time-tranquil-spring-summer-nature-closeup-and-blurred-forest-background-idyllic-nature-photo.jpg"); 
+    height: 150vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    color: rgb(13, 12, 12);
+    font-size: 30px;
+    text-align: center;
+
+
+    .nav-logo img{
+        height: 100px;
+    }
+    .nav-item ul{
+        display: flex;
+        gap: 50px;
+        list-style-type: none;
+       
+    }
+    .nav-item ul li a{
+        text-decoration: none;
+        font-size: 35px;
